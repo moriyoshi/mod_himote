@@ -1,0 +1,11 @@
+.libs
+.deps
+*.o
+*.lo
+*.slo
+*.la
+access_log
+error_log
+runserver.sh
+httpd.conf
+lock.*
